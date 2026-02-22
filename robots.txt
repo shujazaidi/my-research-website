@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shujazaidi.github.io/sshzaidi.github.io/sitemap.xml
+Sitemap: https://shujazaidi.github.io/my-research-website/sitemap.xml
