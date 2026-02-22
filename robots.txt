@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shujazaidi.github.io/my-research-website//al-folio/sitemap.xml
+Sitemap: https://shujazaidi.github.io//al-folio/sitemap.xml
