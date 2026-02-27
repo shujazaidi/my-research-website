@@ -6,7 +6,7 @@ subtitle: <a href='#'>Department of Physics</a>. IITJ. zaidi.1@iitj.ac.in.  #Add
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: myPhoto1-removebg-min-min.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 319, Department of Physics</p>
