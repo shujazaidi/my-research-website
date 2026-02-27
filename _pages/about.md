@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Physics</a>. IITJ. zaidi.1@iitj.ac.in.  #Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Department of Physics</a>, Indian Institute of Technology Jodhpur (IITJ).  #Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: myPhoto1-removebg-min-min.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 319, Department of Physics</p>
-    <p>Indian Institute of Technology Jodhpur (IITJ)</p>
+    <p>Office 319, Department of Physics,</p>
+    <p>Indian Institute of Technology (IITJ),</p>
     <p>Jodhpur, Rajasthan 342030</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
