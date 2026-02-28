@@ -431,8 +431,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/my-research-website/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-collaborative-work-on-active-colloidal-suspension-is-accepted-in-pre-as-a-regular-article-sparkles-smile",
+          title: 'Our collaborative work on active colloidal suspension is accepted in PRE as a...',
           description: "",
           section: "News",},{id: "news-phd-awarded-in-physics-thesis-title-kinetics-of-phase-transitions-in-multicomponent-fluid-mixtures-using-computer-simulations-role-of-surface-potential-and-mixture-composition",
           title: 'PhD awarded in Physics. Thesis title: Kinetics of Phase Transitions in Multicomponent Fluid...',
