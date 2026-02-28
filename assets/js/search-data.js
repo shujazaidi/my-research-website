@@ -426,16 +426,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/my-research-website/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/my-research-website/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-phd-awarded-in-physics-thesis-title-kinetics-of-phase-transitions-in-multicomponent-fluid-mixtures-using-computer-simulations-role-of-surface-potential-and-mixture-composition",
+          title: 'PhD awarded in Physics. Thesis title: Kinetics of Phase Transitions in Multicomponent Fluid...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
