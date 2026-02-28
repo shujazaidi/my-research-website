@@ -30,6 +30,7 @@ latest_posts:
 
 I completed my PhD in Computational Soft Matter Physics at the Indian Institute of Technology Jodhpur, India. My research generally encompasses understanding nonequilibrium phenomena in soft matter systems. Using computer simulations and statistical mechanics, I investigate emergent physics in systems driven away from equilibrium, including phase-separating binary mixtures, barrier crossings by polymers in multistable landscapes, and active colloidal suspensions exhibiting nonequilibrium steady states.    
 
+This is my personal website, where I share details of my research projects and write random posts on a variety of topics. My research interest is in exploring problems in the physics of life, where nonequilibrium concepts of energy production and nonreciprocity govern the behavior of systems ranging from cells to multicellular organisms. My specific focus is on active soft matter, where I study the emergent nonequilibrium behavior of systems driven by nonthermal fluctuations. I aim to combine computer models, nonequilibrium statistical mechanics, and machine learning to learn the fundamentals of how these active systems work.    
 
 
 
