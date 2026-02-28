@@ -28,7 +28,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I completed my PhD in Computational Soft Matter Physics at the Indian Institute of Technology Jodhpur, India. My research generally encompasses understanding nonequilibrium phenomena in soft matter systems. Using computer simulations and statistical mechanics, I investigate emergent kinetics in systems driven far from equilibrium, including phase-separating binary mixtures, driven polymer barrier crossing in multistable landscapes, and active colloidal suspensions exhibiting nonequilibrium steady states.    
+I completed my PhD in Computational Soft Matter Physics at the Indian Institute of Technology Jodhpur, India. My research generally encompasses understanding nonequilibrium phenomena in soft matter systems. Using computer simulations and statistical mechanics, I investigate emergent physics in systems driven away from equilibrium, including phase-separating binary mixtures, barrier crossings by polymers in multistable landscapes, and active colloidal suspensions exhibiting nonequilibrium steady states.    
+
+
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture #`prof_pic.jpg` and put it in the `img/` folder.
