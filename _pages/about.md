@@ -7,7 +7,7 @@ subtitle: <a href='#'>Department of Physics</a>, Indian Institute of Technology 
 profile:
   align: right
   image: myPhoto1-removebg-min-min.png
-  image_circular: true # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   more_info: >
     <p>Syed Shuja Hasan Zaidi,</p>
     <p>Department of Physics,</p>
