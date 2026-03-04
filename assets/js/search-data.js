@@ -426,11 +426,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/my-research-website/books/the_godfather/";
-            },},{id: "news-a-new-paper-on",
-          title: 'A new paper on',
-          description: "",
-          section: "News",},{id: "news-phd-awarded-in-physics-thesis-title-kinetics-of-phase-transitions-in-multicomponent-fluid-mixtures-using-computer-simulations-role-of-surface-potential-and-mixture-composition",
+            },},{id: "news-phd-awarded-in-physics-thesis-title-kinetics-of-phase-transitions-in-multicomponent-fluid-mixtures-using-computer-simulations-role-of-surface-potential-and-mixture-composition",
           title: 'PhD awarded in Physics. Thesis title: Kinetics of Phase Transitions in Multicomponent Fluid...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-barrier-crossing-by-partially-active-polymers-is-published-in-j-chem-phys-zaidi-et-al-jcp-2025",
+          title: 'Our paper on barrier crossing by partially active polymers is published in J....',
           description: "",
           section: "News",},{id: "news-our-collaborative-work-on-active-colloidal-suspension-is-accepted-in-pre-as-a-regular-article-sparkles-smile",
           title: 'Our collaborative work on active colloidal suspension is accepted in PRE as a...',
