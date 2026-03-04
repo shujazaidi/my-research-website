@@ -1,12 +1,12 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+date: 2025-10-29 16:11:00-0400
 inline: true #false
 related_posts: false
 ---
 
- A new paper on 
+Our paper on barrier crossing by partially active polymers is published in J. Chem. Phys. [ Zaidi, et al., JCP (2025)]
 
 <!--
 
