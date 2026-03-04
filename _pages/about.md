@@ -13,20 +13,19 @@ profile:
     <p>Department of Physics,</p>
     <p>Indian Institute of Technology Jodhpur,</p>
     <p>India</p>
-    <p> social: true </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-<!--social: true # includes social icons at the bottom of the page-->
+# social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+#latest_posts:
+ # enabled: true
+  #scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  #limit: 3 # leave blank to include all the blog posts
 ---
 
 I completed my PhD in Computational Soft Matter Physics at the Indian Institute of Technology Jodhpur, India. My research generally encompasses understanding nonequilibrium phenomena in soft matter systems. Using computer simulations and statistical mechanics, I investigate emergent physics in systems driven away from equilibrium, including phase-separating binary mixtures, barrier crossings by polymers in multistable landscapes, and active colloidal suspensions exhibiting nonequilibrium steady states.    
