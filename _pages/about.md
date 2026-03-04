@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Physics</a>, Indian Institute of Technology Jodhpur (IITJ).  #Address. Contacts. Motto. Etc.
+subtitle: Statistical mechanics and Nonequilibrium physics of soft and active matter #<a href='#'>Department of Physics</a>, Indian Institute of Technology Jodhpur (IITJ).  #Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -12,8 +12,6 @@ profile:
     <p>Syed Shuja Hasan Zaidi,</p>
     <p>Department of Physics,</p>
     <p>Indian Institute of Technology Jodhpur,</p>
-    <p> </p>
-    <p> Statistical mechanics and Nonequilibrium physics of soft and active matter </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
