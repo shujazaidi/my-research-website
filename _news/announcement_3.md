@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Our collaborative work on active colloidal suspension is accepted in PRE as a regular article. :sparkles: :smile:
+Our collaborative work on the experimental and numerical investigation of active colloidal suspensions has been accepted in as a regular article in [Phys. Rev E.](https://journals.aps.org/pre/accepted/10.1103/rrl4-nxmy) :sparkles: :smile:
 <!-- 
 A simple inline announcement with Markdown emoji! :sparkles: :smile:
 -->
