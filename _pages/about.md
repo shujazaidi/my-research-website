@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>Syed Shuja Hasan Zaidi,</p>
     <p>Department of Physics,</p>
-    <p>Indian Institute of Technology Jodhpur (IITJ),</p>
-    <p>Rajasthan, 342030, India</p>
+    <p>Indian Institute of Technology Jodhpur,</p>
+    <p>India</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
