@@ -429,7 +429,7 @@ ninja.data = [{
             },},{id: "news-phd-awarded-in-physics-thesis-title-kinetics-of-phase-transitions-in-multicomponent-fluid-mixtures-using-computer-simulations-role-of-surface-potential-and-mixture-composition",
           title: 'PhD awarded in Physics. Thesis title: Kinetics of Phase Transitions in Multicomponent Fluid...',
           description: "",
-          section: "News",},{id: "news-our-paper-on-barrier-crossing-by-partially-active-polymers-is-published-in-j-chem-phys-zaidi-et-al-jcp-2025",
+          section: "News",},{id: "news-our-paper-on-barrier-crossing-by-partially-active-polymers-is-published-in-j-chem-phys-https-doi-org-10-1063-5-0291163",
           title: 'Our paper on barrier crossing by partially active polymers is published in J....',
           description: "",
           section: "News",},{id: "news-our-collaborative-work-on-active-colloidal-suspension-is-accepted-in-pre-as-a-regular-article-sparkles-smile",
