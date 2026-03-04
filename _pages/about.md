@@ -7,9 +7,9 @@ subtitle: <a href='#'>Department of Physics</a>, Indian Institute of Technology 
 profile:
   align: right
   image: myPhoto1-removebg-min-min.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Office 319,</p>
+    <p>Syed Shuja Hasan Zaidi,</p>
     <p>Department of Physics,</p>
     <p>Indian Institute of Technology Jodhpur (IITJ),</p>
     <p>Rajasthan, 342030, India</p>
