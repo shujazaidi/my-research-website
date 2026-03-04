@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-PhD awarded in Physics. Thesis title: Kinetics of Phase Transitions in Multicomponent Fluid Mixtures using Computer Simulations: Role of Surface Potential and Mixture Composition
+PhD awarded in Physics. Thesis title: Kinetics of phase transitions in multicomponent fluid mixtures using computer simulations: Role of surface potential and mixture composition
