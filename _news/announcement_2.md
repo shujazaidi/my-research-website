@@ -6,7 +6,7 @@ inline: true #false
 related_posts: false
 ---
 
-Our paper on barrier crossing by partially active polymers is published in J. Chem. Phys. [ Zaidi, et al., JCP (2025)]
+Our paper on barrier crossing by partially active polymers is published in J. Chem. Phys. [https://doi.org/10.1063/5.0291163]
 
 <!--
 
