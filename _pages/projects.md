@@ -5,7 +5,7 @@ permalink: /projects/
 description: Details of my ongoing and completed projects. To be updated soon ...
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work] #[work, fun]
 horizontal: false
 ---
 
