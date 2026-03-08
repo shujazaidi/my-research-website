@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Statistical mechanics and Nonequilibrium physics of soft and active matter #<a href='#'>Department of Physics</a>, Indian Institute of Technology Jodhpur (IITJ).  #Address. Contacts. Motto. Etc.
+subtitle: Statistical mechanics and nonequilibrium physics of soft and active matter #<a href='#'>Department of Physics</a>, Indian Institute of Technology Jodhpur (IITJ).  #Address. Contacts. Motto. Etc.
 
 profile:
   align: right
