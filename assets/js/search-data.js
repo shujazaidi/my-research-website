@@ -400,9 +400,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-collaborative-work-on-the-experimental-and-numerical-investigation-of-active-colloidal-suspensions-has-been-accepted-in-as-a-regular-article-in-phys-rev-e-sparkles-smile",
           title: 'Our collaborative work on the experimental and numerical investigation of active colloidal suspensions...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-active-collloidal-suspension",
+          title: 'Active Collloidal Suspension',
+          description: "Numerical study of the effects of active fluctuations on particle dynamics in colloidal suspensions",
           section: "Projects",handler: () => {
               window.location.href = "/my-research-website/projects/1_project/";
             },},{id: "projects-project-2",
