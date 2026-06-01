@@ -10,8 +10,10 @@ profile:
   image_circular: True # crops the image to make it circular
   more_info: >
     <p>Syed Shuja Hasan Zaidi,</p>
-    <p>Department of Physics,</p>
-    <p>Indian Institute of Technology Jodhpur,</p>
+    <p>Postdoctoral Researcher,</p>
+    <p>THEORETICAL PHYSICS - F1,</p>
+    <p>Jožef Stefan Institute,</p>
+    <p>Jamova cesta 39, 1000 Ljubljana, Slovenia</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
